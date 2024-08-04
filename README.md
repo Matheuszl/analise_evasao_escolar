@@ -1,11 +1,18 @@
-# Projeto de Engenharia de Dados: Análise e Previsão de Evasão Escolar
+# DataEduEng
+# Transformando dados em insights para um futuro educacional melhor. #
 
-## Descrição do Projeto
+### Projeto de Engenharia de Dados: Análise e Previsão de Evasão Escolar
+
+#### Descrição do Projeto
 
 Este projeto tem como objetivo a coleta, armazenamento e análise de dados relacionados à evasão escolar, visando a criação de indicadores preditivos por meio de algoritmos de Machine Learning (ML). A análise abrange informações de 70 cursos de graduação, oferecidos em 10 campi diferentes.
 
 Objetivo
 Desenvolver uma arquitetura de dados robusta que suporte a análise e predição de casos de evasão escolar. A arquitetura deve integrar diversas fontes de dados de maneira eficiente, incluindo arquivos de texto, planilhas, bancos de dados e dados não estruturados, para facilitar o treinamento de algoritmos de ML.
+
+![Descrição da imagem](Arquitetura.png)
+
+![Descrição da imagem](git.png)
 
 ## Tecnologias Utilizadas
 - [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
